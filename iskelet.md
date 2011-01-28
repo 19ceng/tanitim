@@ -2,6 +2,7 @@
 
 - 19 Hakkında: Boun
 	- Genel Bilgiler: METU
+	- Bilgi: YT
 
 	+ Bölüm Tanıtımı: TOBB
 	+ Tarihçe: Boun
@@ -56,7 +57,14 @@
 	+ Yandal Programı: TOBB
 	+ Ortak Eğitim: TOBB
 	+ Staj: Boun
-		- Staj Yönetmeliği: Mar
+		- Yönerge/Yönetmeliği: Mar
+		- Formlar: YT
+		- Duyuru: YT
+		- İlanlar: YT
+		- İş İlanları: YT
+		- Parttime: YT
+		- Raporlar: YT
+
 	+ Bitirme Projesi: Boun, Mar
 		- Bitirme Ödevleri: İTÜ
 	+ Değişim Programı: Bilk, Mar
@@ -94,6 +102,7 @@
 	+ Seminerler: METU
 	+ Yazılımlar: TOBB
 	+ Bağlantılar: TOBB
+	+ Dokümanlar: YT
 
 - Akademik Takvim
 
@@ -104,7 +113,10 @@
 	+ Öğrenci İşleri: İTÜ
 	+ Kütüphane: İTÜ
 	+ Telefon Rehberi: İTÜ
+	+ Kişisel Sayfalar: YT
 
 - OYAK: Hac
+	
 	+ Öğrenci Kulüpleri: Mar
 
+- Mezunlar Sitesi: YT
