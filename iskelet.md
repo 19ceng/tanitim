@@ -50,12 +50,16 @@
 	+ Ders Tanımları: Bilk
 	+ Ders Sayfaları: Bilk
 	+ Seçmeli Dersler: Boun
+	+ Ders Önkoşul Ağacı: Mar
+	+ Danışman Listesi: Mar
+	+ Ders Çizelgesi: Mar
 	+ Yandal Programı: TOBB
 	+ Ortak Eğitim: TOBB
 	+ Staj: Boun
-	+ Bitirme Projesi: Boun
+		- Staj Yönetmeliği: Mar
+	+ Bitirme Projesi: Boun, Mar
 		- Bitirme Ödevleri: İTÜ
-	+ Değişim Programı: Bilk
+	+ Değişim Programı: Bilk, Mar
 	+ Özel Öğrenciler: Bilk
 	+ Yayınlar: İTÜ
 	+ Yarışmalar: İTÜ
@@ -102,3 +106,5 @@
 	+ Telefon Rehberi: İTÜ
 
 - OYAK: Hac
+	+ Öğrenci Kulüpleri: Mar
+
