@@ -12,9 +12,11 @@
 
 	+ Bölüm Tanıtımı: TOBB
 	+ Bölüm Başkanlığı: Ank
+		- Yönetim: Ege
 	+ Sekreterlik: Ank
 	+ Tarihçe: Boun
 	+ Misyon ve Hedefler: Boun
+	+ Özgörev: Ege
 	+ Bina ve İmkanlar: Boun
 	+ İletişim: Boun
 		- Konum/Kontak: METU
@@ -22,8 +24,11 @@
 	+ Açık Pozisyonlar: Boun
 	+ Medyada 19: Boun
 	+ Resimler: Bilk
+	+ Bölüm sunumu: Ege
 	+ Kurumsal Öğeler: İTÜ
 	+ İşbirlikleri: TOBB
+	+ Yönergeler: Ege
+	+ Çalışma Grupları: Ege
 
 - Kişiler: Boun
 
@@ -98,6 +103,9 @@
 		- Grubu
 		- Raporu
 		- Fotoğraflar
+	+ Program çıktıları: Ege
+		- Eğitim Amaçları
+		- Eğitim Planı
 
 - Araştırma: Boun
 
@@ -118,6 +126,9 @@
 	+ İşbirlikleri: TOBB
 
 - Etkinlikler: İTÜ
+	+ Kariyer günleri: Ege
+	+ Tekniz Geziler
+	+ Sosyal Sorumluluk Projeleri: Ege
 
 - Forumlar: İTÜ
 
