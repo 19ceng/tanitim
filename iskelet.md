@@ -1,15 +1,24 @@
 - Duyurular: Boun
+	+ Haberler: Ank
+		- Seminerler
+		- Güncel Konular
+		- İlanlar
+		- Öğrenci Stajları
+		- Sınav Tarihleri
 
 - 19 Hakkında: Boun
 	- Genel Bilgiler: METU
 	- Bilgi: YT
 
 	+ Bölüm Tanıtımı: TOBB
+	+ Bölüm Başkanlığı: Ank
+	+ Sekreterlik: Ank
 	+ Tarihçe: Boun
 	+ Misyon ve Hedefler: Boun
 	+ Bina ve İmkanlar: Boun
 	+ İletişim: Boun
 		- Konum/Kontak: METU
+		- OMÜ/MF/CENG: Ank
 	+ Açık Pozisyonlar: Boun
 	+ Medyada 19: Boun
 	+ Resimler: Bilk
@@ -33,18 +42,23 @@
 
 - Lisansüstü: Boun
 	- Lisansüstü Eğitimi: İTÜ
+	- Hakkında: Ank
 
 	+ Yüksek Lisans Programı: Boun
 		- Genel Bilgi: METU
 	+ Doktora Programı: Boun
 	+ Ders Listesi: Boun
+	+ Ders Sayfaları: Ank
 	+ Önerilen/Yürütülen Tezler: Boun
 	+ Yüksek Lisans Tezleri: Boun
 	+ Doktora Tezleri: Boun
+	+ Öğrenciler: Ank
+	+ Bağlar: Ank
 
 - Lisans: Boun
 
 	+ Genel Bilgi: Boun
+		- Hakkında: Ank
 	+ Müfredat: Boun
 	+ Ders Listesi: Boun
 		- Dersler: İTÜ
@@ -68,19 +82,37 @@
 	+ Bitirme Projesi: Boun, Mar
 		- Bitirme Ödevleri: İTÜ
 	+ Değişim Programı: Bilk, Mar
+		- Erasmus: Ank
+			+ Koordinatör
+			+ Antlaşmalar
+			+ Takvim
+			+ Formlar
+	+ Öğrenciler: Ank
 	+ Özel Öğrenciler: Bilk
 	+ Yayınlar: İTÜ
 	+ Yarışmalar: İTÜ
 	+ SSS: İTÜ
+	+ Bağlar: Ank
+	+ MÜDEK: Ank
+		- Değerlendirme Takımı
+		- Grubu
+		- Raporu
+		- Fotoğraflar
 
 - Araştırma: Boun
 
 	+ Projeler: Bilk
+		+ Araştırma: Ank
+		+ Öğrenci: Ank
 	+ Yayınlar: Bilk
 	+ Gruplar: Bilk
 	+ Seminerler: Bilk
 	+ Laboratuvarlar: METU
+		- Lisans
+		- Araştırma
 	+ Merkezler: METU
+	+ Ödüller: Ank
+	+ İşbirlikleri: Ank
 
 - İş Dünyası: TOBB
 	+ İşbirlikleri: TOBB
@@ -103,6 +135,7 @@
 	+ Yazılımlar: TOBB
 	+ Bağlantılar: TOBB
 	+ Dokümanlar: YT
+	+ Kütüphane: Ank
 
 - Akademik Takvim
 
@@ -114,9 +147,12 @@
 	+ Kütüphane: İTÜ
 	+ Telefon Rehberi: İTÜ
 	+ Kişisel Sayfalar: YT
+	+ Not Sorgulama: Ank
+	+ e-posta: Ank
+	+ Akademik Takvim: Ank
 
 - OYAK: Hac
-	
+
 	+ Öğrenci Kulüpleri: Mar
 
 - Mezunlar Sitesi: YT
