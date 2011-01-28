@@ -3,6 +3,7 @@
 - 19 Hakkında: Boun
 	- Genel Bilgiler: METU
 
+	+ Bölüm Tanıtımı: TOBB
 	+ Tarihçe: Boun
 	+ Misyon ve Hedefler: Boun
 	+ Bina ve İmkanlar: Boun
@@ -12,6 +13,7 @@
 	+ Medyada 19: Boun
 	+ Resimler: Bilk
 	+ Kurumsal Öğeler: İTÜ
+	+ İşbirlikleri: TOBB
 
 - Kişiler: Boun
 
@@ -48,6 +50,8 @@
 	+ Ders Tanımları: Bilk
 	+ Ders Sayfaları: Bilk
 	+ Seçmeli Dersler: Boun
+	+ Yandal Programı: TOBB
+	+ Ortak Eğitim: TOBB
 	+ Staj: Boun
 	+ Bitirme Projesi: Boun
 		- Bitirme Ödevleri: İTÜ
@@ -66,6 +70,9 @@
 	+ Laboratuvarlar: METU
 	+ Merkezler: METU
 
+- İş Dünyası: TOBB
+	+ İşbirlikleri: TOBB
+
 - Etkinlikler: İTÜ
 
 - Forumlar: İTÜ
@@ -81,6 +88,8 @@
 	+ Servisler: Bilk, METU
 	+ Haberler: METU
 	+ Seminerler: METU
+	+ Yazılımlar: TOBB
+	+ Bağlantılar: TOBB
 
 - Akademik Takvim
 
