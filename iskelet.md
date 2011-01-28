@@ -101,3 +101,4 @@
 	+ Kütüphane: İTÜ
 	+ Telefon Rehberi: İTÜ
 
+- OYAK: Hac
