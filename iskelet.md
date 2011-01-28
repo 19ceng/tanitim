@@ -87,6 +87,8 @@
 		- Parttime: YT
 		- Raporlar: YT
 
+	+ Yönetmelikler: SaU
+		- Çift anadal/öğrenci disiplin/vs
 	+ Bitirme Projesi: Boun, Mar
 		- Bitirme Ödevleri: İTÜ
 	+ Değişim Programı: Bilk, Mar
@@ -179,3 +181,5 @@
 	+ Öğrenci Kulüpleri: Mar
 
 - Mezunlar Sitesi: YT
+	- anket: SaU
+	- giriş alanı: SaU
