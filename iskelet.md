@@ -11,20 +11,22 @@
 	- Bilgi: YT
 
 	+ Bölüm Tanıtımı: TOBB
+		- Bölüm sunumu: Ege
 	+ Bölüm Başkanlığı: Ank
 		- Yönetim: Ege
+		- Bölüm Danışma Kurulu: 7te
 	+ Sekreterlik: Ank
 	+ Tarihçe: Boun
 	+ Misyon ve Hedefler: Boun
-	+ Özgörev: Ege
+		- Özgörev: Ege
+		- Etik İlkeler: 7te
 	+ Bina ve İmkanlar: Boun
 	+ İletişim: Boun
-		- Konum/Kontak: METU
+		- Harita/Ulaşım/Konum/Kontak: METU
 		- OMÜ/MF/CENG: Ank
 	+ Açık Pozisyonlar: Boun
 	+ Medyada 19: Boun
 	+ Resimler: Bilk
-	+ Bölüm sunumu: Ege
 	+ Kurumsal Öğeler: İTÜ
 	+ İşbirlikleri: TOBB
 	+ Yönergeler: Ege
@@ -59,6 +61,7 @@
 	+ Doktora Tezleri: Boun
 	+ Öğrenciler: Ank
 	+ Bağlar: Ank
+	+ Önemli Tarihler: 7te
 
 - Lisans: Boun
 
@@ -94,6 +97,7 @@
 			+ Formlar
 	+ Öğrenciler: Ank
 	+ Özel Öğrenciler: Bilk
+	+ Öğrenci Asistanları: 7te
 	+ Yayınlar: İTÜ
 	+ Yarışmalar: İTÜ
 	+ SSS: İTÜ
@@ -113,6 +117,8 @@
 		+ Araştırma: Ank
 		+ Öğrenci: Ank
 	+ Yayınlar: Bilk
+	+ Teknik Rapor: 7te
+	+ Tezler: 7te
 	+ Gruplar: Bilk
 	+ Seminerler: Bilk
 	+ Laboratuvarlar: METU
@@ -130,15 +136,13 @@
 	+ Tekniz Geziler
 	+ Sosyal Sorumluluk Projeleri: Ege
 
-- Forumlar: İTÜ
-
-- Anketler: İTÜ
 
 - ÖSS Adaylarına: METU
 
 - Özel Alan: Boun, Bilk
 
 - Resources: METU
+	- Bölüm İmkanları: 7te
 
 	+ Servisler: Bilk, METU
 	+ Haberler: METU
@@ -147,10 +151,15 @@
 	+ Bağlantılar: TOBB
 	+ Dokümanlar: YT
 	+ Kütüphane: Ank
-
-- Akademik Takvim
+		- Bölüm Kütüphanesi: 7te
+	+ Sistem Destek Grubu: 7te
+		- BİM: @roktas
 
 - Bağlantılar: İTÜ
+
+	- Forumlar: İTÜ
+	- Anketler: İTÜ
+	- Akademik Takvim
 
 	+ OMÜ
 	+ EEMB: İTÜ
@@ -160,6 +169,9 @@
 	+ Kişisel Sayfalar: YT
 	+ Not Sorgulama: Ank
 	+ e-posta: Ank
+		- e-grup listeleri
+		- çevrimiçi kayıt
+	+ Teknik Destek
 	+ Akademik Takvim: Ank
 
 - OYAK: Hac
