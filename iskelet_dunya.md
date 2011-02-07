@@ -67,7 +67,7 @@ Anasayfa
 		Lisans(MIT)(texas)
 		Lisansüstü(MIT)(texas)
 		Sýk Sorulan Sorular(MIT)
-		
+
 	Akademik(MIT)(Berkeley)(umich)(gatech)(cornell)
 		Lisans Öðrencileri(gatech)
 		Mezunlar(gatech)
@@ -235,5 +235,5 @@ Anasayfa
 		Video Arþivi(gatech)
 	Kullanýcý giriþi(MIT)(ucsd)
 	Destek(cornell)
-	
-	
+
+
